@@ -4,4 +4,4 @@
 
 Recipe Picks:
 
-- January: [Grilled Peach Salad](../recipe/jan/grilled-peach-salad.md)
+- Febreary: [Quick oatmeal panckakes](../recipe/feb/oatmeal-panckakes.md)
